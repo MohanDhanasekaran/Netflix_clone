@@ -36,7 +36,7 @@ const SignUpPage = () => {
             <h1>Unlimited movies, Tv shows and more</h1>
             <h4>watch anywhere, Cancel Anytime</h4>
             <h6>
-              Raedy to watch? Enter your email to create or restart menbership
+              Ready to watch? Enter your email to create or restart menbership
             </h6>
           </div>
           <div className="form">
